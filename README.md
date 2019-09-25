@@ -10,7 +10,7 @@ x 24.09.19 https://asvl.no/asvl/ros-forum/kursmateriell_instruktorer/
 
 x 24.09.19 https://asvl.no/asvl/ros-forum/kursmateriell_utredere/
 
-Kunnskapsbasen (her er mye godt navnet, men fint om du gir dekkende navn til de av dokumentene som ikke har gode titler).
+x 25.09.19 Kunnskapsbasen (her er mye godt navnet, men fint om du gir dekkende navn til de av dokumentene som ikke har gode titler).
 
 x 24.09.19 https://asvl.no/asvl/arbeidsgiver/styringsdokumenter/
 
